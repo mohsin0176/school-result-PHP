@@ -1,0 +1,32 @@
+
+
+                   ADMIN username = admin
+                         password = Test@123
+
+
+Roll id–10861
+
+DON'T FORGET TO CREATE A DATABASE  AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING
+
+
+
+You’ll need XAMP Server or WAMP Server. Put the file inside “c:/wamp/www/” or “c:/xampp/htdocs/”. Go To “localhost/phpmyadmin” in any browser and create Database (name according to SQL file).In That Database, Import the SQL file and finally go to URL: “http://localhost/file_name/phpfilename”
+Don’t Forget To create a database and import SQL file to run.
+
+
+
+http://localhost/school%20result%20PHP/srms/
+database name---srms
